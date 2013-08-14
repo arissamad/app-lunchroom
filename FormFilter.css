@@ -1,0 +1,54 @@
+.formFilter {
+	color: red;
+}
+
+.formFilter  {
+    width: 100%;
+	background-color: #f5fafd;
+	border: 1px solid #dff2f8;
+	padding: 5px 10px;
+}
+
+.formFilter .lunchroom-filter-table {
+	width: 100%;
+}
+
+.formFilter .appSearchText, .formFilter .appSearchBox {
+	padding: 0px 2px 5px 2px;
+}
+
+.formFilter .appSearchText {
+	text-align: left;
+	color: #9a9a9c;
+	vertical-align:middle;
+}
+
+.formFilter .appSearchText .bold {
+	font-weight: 900;
+	color: #323234;
+}
+
+.formFilter .appSearchRow {
+	border-top: 1px solid #94d7f1;
+}
+
+.formFilter .appSearchCol {
+	padding-top: 5px;
+}
+
+.formFilter .class-form {
+	display: inline-block;
+	margin-right: 4px;
+	color: #0879a1;
+	padding: 0px 5px;
+	border: 1px solid transparent;
+	font-weight: 900;
+    cursor: pointer;
+
+}
+
+.formFilter .class-form.selected {
+	color: #0099cb;
+	background-color: #fff;
+	border: 1px solid #0099cb;
+}
